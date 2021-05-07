@@ -33,7 +33,7 @@
     "request-as-curl": "^0.1.0",
     "request-promise": "^4.2.2",
     "strformat": "0.0.7",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "uuid": "^3.3.2",
     "wechat": "^2.1.0",
     "wechat-api": "^1.35.1",
