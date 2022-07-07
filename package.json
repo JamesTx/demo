@@ -26,7 +26,7 @@
     "leancloud-storage": "^3.10.0",
     "leanengine": "github:leancloud/leanengine-node-sdk#cloud-queue",
     "measured": "^1.1.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "multiparty": "^4.2.1",
     "promise-queue": "^2.2.5",
     "request": "^2.88.0",
